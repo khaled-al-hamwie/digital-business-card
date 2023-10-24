@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+# intro
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+welcome to the digital business card
+a card where you can add you bussiness card info
 
-## Available Scripts
+## credit
 
-In the project directory, you can run:
+the design of this card is from the react course on:
 
-### `npm start`
+- youtube [course link](https://www.youtube.com/watch?v=bMknfKXIFA8&list=PLPSCXLjE3IFPZwLT7jYePtTaeUQGTbNpY&index=4&t=8846s&pp=gAQBiAQB)
+- or scrimba [course link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3J2WmNhQzJOUGhydU80QTRDZm9vNWs0NHFMd3xBQ3Jtc0trVTRyNC11bUlQNWstSjBXMFhjZW5HQlV4eTlKU2JBdFUtOHA1MjlHQVFmamRwRFpHZ2Q1UXRTSkhMRUV2MUpsMEkzeWl6czl1WVVneUd2R2w4UVRPOXlZUy1oS2d2Qi0xaXFYTUtHdVRjMWN5dVhwYw&q=https%3A%2F%2Fscrimba.com%2Flearn%2Flearnreact&v=bMknfKXIFA8)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+which is made by the teacher Bob Ziroll [twitter](https://twitter.com/bobziroll)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+the design can be found on [figma](https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?node-id=0%3A1)
 
-### `npm test`
+## contact
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+thank for taking a look at this project
+you can find my social links here :)
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [github](https://github.com/khaled-al-hamwie)
+- [linked in](https://www.linkedin.com/in/khaled-al-hamwie-869237200/)
+- [email](khaledAlHamwieContactAcccount@gmail.com)
