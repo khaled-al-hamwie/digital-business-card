@@ -1,0 +1,5 @@
+.social-link {
+    transform: scale(1.2);
+    border-radius: 2px;
+    cursor: pointer;
+}
