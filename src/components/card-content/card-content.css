@@ -56,4 +56,29 @@
     width: 100%;
     align-items: center;
     justify-content: space-between;
+    margin-block: 0 24px;
+}
+
+.card-content-section-title {
+    margin-block: 0 5px;
+    color: #F5F5F5;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+    align-self: flex-start;
+    /* 24px */
+}
+
+.card-content-section-content {
+    margin-block: 0 27px;
+    color: #DCDCDC;
+    font-family: Inter;
+    font-size: 10.24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    align-self: flex-start;
+    /* 15.36px */
 }
