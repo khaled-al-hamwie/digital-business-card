@@ -1,5 +1,5 @@
 import CardContent from "./card-content/card-content";
-import CardFooter from "./card-footer";
+import CardFooter from "./card-footer/card-footer";
 import CardProfile from "./card-profile";
 import "./card.css";
 

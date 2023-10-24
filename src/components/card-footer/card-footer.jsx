@@ -1,3 +1,4 @@
+import "./card-footer.css";
 function CardFooter() {
 	return <div className="card-footer"></div>;
 }
