@@ -17,12 +17,19 @@
     font-style: normal;
     font-weight: 500;
     line-height: 16px;
+    user-select: none;
 }
 
 .social-button img {
     width: 16px;
     height: 16px;
     flex-shrink: 0;
+    /* user-drag: none; */
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
 }
 
 .social-button-white {

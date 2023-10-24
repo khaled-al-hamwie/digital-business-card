@@ -3,3 +3,11 @@
     border-radius: 2px;
     cursor: pointer;
 }
+
+.social-link img {
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
